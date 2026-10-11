@@ -1,0 +1,19 @@
+digital: ofdm: add back-to-back multi-packet loopback test
+
+The existing OFDM TX/RX QA tests only transmit a single packet, so
+packet drops that occur only between consecutive bursts (issue #6891)
+are not covered.
+
+Add test_005_tx_multipacket_rolloff, which sends 100 back-to-back
+packets with random payloads through ofdm_tx/ofdm_rx and checks that
+every byte is received. The transmitter uses rolloff=4, which separates
+consecutive bursts so that the Schmidl & Cox plateau of the next packet
+is not detected inside the current one.
+
+With rolloff=0 the same test fails (4850 of 5000 bytes received),
+so it guards the workaround discussed in #6891.
+
+Also set rolloff=4 in examples/ofdm/ofdm_loopback.grc so that the
+example no longer drops packets with non-repeating payloads.
+
+Signed-off-by: <Full Name> <email>
