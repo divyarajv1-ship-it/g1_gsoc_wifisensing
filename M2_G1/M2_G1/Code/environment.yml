@@ -1,0 +1,12 @@
+# Reproducible environment for all M2 experiments (no sudo needed).
+#   micromamba create -f environment.yml      (or: conda env create -f environment.yml)
+#   micromamba activate g1-gr310
+name: g1-gr310
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - gnuradio-core=3.10      # M2 results were produced with 3.10.12.0
+  - numpy
+  - matplotlib
+  - pytest
