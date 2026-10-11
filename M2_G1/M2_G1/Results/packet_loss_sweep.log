@@ -1,0 +1,161 @@
+[1/150] streaming len= 50 rolloff=0 gap=0 noise=0.00 seed=1 -> OK lost=26 PDR=0.948
+[2/150] streaming len= 50 rolloff=0 gap=0 noise=0.00 seed=2 -> OK lost=21 PDR=0.958
+[3/150] streaming len= 50 rolloff=0 gap=0 noise=0.00 seed=3 -> OK lost=19 PDR=0.962
+[4/150] streaming len= 50 rolloff=0 gap=0 noise=0.00 seed=4 -> OK lost=18 PDR=0.964
+[5/150] streaming len= 50 rolloff=0 gap=0 noise=0.00 seed=5 -> OK lost=19 PDR=0.962
+ofdm_cyclic_prefixer :warning: Set rolloff to 0, because 1 would result in a boxcar function.
+[6/150] streaming len= 50 rolloff=1 gap=0 noise=0.00 seed=1 -> OK lost=26 PDR=0.948
+ofdm_cyclic_prefixer :warning: Set rolloff to 0, because 1 would result in a boxcar function.
+[7/150] streaming len= 50 rolloff=1 gap=0 noise=0.00 seed=2 -> OK lost=21 PDR=0.958
+ofdm_cyclic_prefixer :warning: Set rolloff to 0, because 1 would result in a boxcar function.
+[8/150] streaming len= 50 rolloff=1 gap=0 noise=0.00 seed=3 -> OK lost=19 PDR=0.962
+ofdm_cyclic_prefixer :warning: Set rolloff to 0, because 1 would result in a boxcar function.
+[9/150] streaming len= 50 rolloff=1 gap=0 noise=0.00 seed=4 -> OK lost=18 PDR=0.964
+ofdm_cyclic_prefixer :warning: Set rolloff to 0, because 1 would result in a boxcar function.
+[10/150] streaming len= 50 rolloff=1 gap=0 noise=0.00 seed=5 -> OK lost=19 PDR=0.962
+[11/150] streaming len= 50 rolloff=2 gap=0 noise=0.00 seed=1 -> OK lost=0 PDR=1.0
+[12/150] streaming len= 50 rolloff=2 gap=0 noise=0.00 seed=2 -> OK lost=2 PDR=0.996
+[13/150] streaming len= 50 rolloff=2 gap=0 noise=0.00 seed=3 -> OK lost=2 PDR=0.996
+[14/150] streaming len= 50 rolloff=2 gap=0 noise=0.00 seed=4 -> OK lost=0 PDR=1.0
+[15/150] streaming len= 50 rolloff=2 gap=0 noise=0.00 seed=5 -> OK lost=0 PDR=1.0
+[16/150] streaming len= 50 rolloff=4 gap=0 noise=0.00 seed=1 -> OK lost=0 PDR=1.0
+[17/150] streaming len= 50 rolloff=4 gap=0 noise=0.00 seed=2 -> OK lost=0 PDR=1.0
+[18/150] streaming len= 50 rolloff=4 gap=0 noise=0.00 seed=3 -> OK lost=0 PDR=1.0
+[19/150] streaming len= 50 rolloff=4 gap=0 noise=0.00 seed=4 -> OK lost=0 PDR=1.0
+[20/150] streaming len= 50 rolloff=4 gap=0 noise=0.00 seed=5 -> OK lost=0 PDR=1.0
+[21/150] streaming len= 50 rolloff=0 gap=1 noise=0.00 seed=1 -> OK lost=0 PDR=1.0
+[22/150] streaming len= 50 rolloff=0 gap=1 noise=0.00 seed=2 -> OK lost=0 PDR=1.0
+[23/150] streaming len= 50 rolloff=0 gap=1 noise=0.00 seed=3 -> OK lost=0 PDR=1.0
+[24/150] streaming len= 50 rolloff=0 gap=1 noise=0.00 seed=4 -> OK lost=0 PDR=1.0
+[25/150] streaming len= 50 rolloff=0 gap=1 noise=0.00 seed=5 -> OK lost=0 PDR=1.0
+[26/150] streaming len= 50 rolloff=0 gap=8 noise=0.00 seed=1 -> OK lost=0 PDR=1.0
+[27/150] streaming len= 50 rolloff=0 gap=8 noise=0.00 seed=2 -> OK lost=0 PDR=1.0
+[28/150] streaming len= 50 rolloff=0 gap=8 noise=0.00 seed=3 -> OK lost=0 PDR=1.0
+[29/150] streaming len= 50 rolloff=0 gap=8 noise=0.00 seed=4 -> OK lost=0 PDR=1.0
+[30/150] streaming len= 50 rolloff=0 gap=8 noise=0.00 seed=5 -> OK lost=0 PDR=1.0
+[31/150] offline   len= 50 rolloff=0 gap=0 noise=0.00 seed=1 -> OK lost=26 PDR=0.948
+[32/150] offline   len= 50 rolloff=0 gap=0 noise=0.00 seed=2 -> OK lost=21 PDR=0.958
+[33/150] offline   len= 50 rolloff=0 gap=0 noise=0.00 seed=3 -> OK lost=19 PDR=0.962
+[34/150] offline   len= 50 rolloff=0 gap=0 noise=0.00 seed=4 -> OK lost=18 PDR=0.964
+[35/150] offline   len= 50 rolloff=0 gap=0 noise=0.00 seed=5 -> OK lost=19 PDR=0.962
+ofdm_cyclic_prefixer :warning: Set rolloff to 0, because 1 would result in a boxcar function.
+[36/150] offline   len= 50 rolloff=1 gap=0 noise=0.00 seed=1 -> OK lost=26 PDR=0.948
+ofdm_cyclic_prefixer :warning: Set rolloff to 0, because 1 would result in a boxcar function.
+[37/150] offline   len= 50 rolloff=1 gap=0 noise=0.00 seed=2 -> OK lost=21 PDR=0.958
+ofdm_cyclic_prefixer :warning: Set rolloff to 0, because 1 would result in a boxcar function.
+[38/150] offline   len= 50 rolloff=1 gap=0 noise=0.00 seed=3 -> OK lost=19 PDR=0.962
+ofdm_cyclic_prefixer :warning: Set rolloff to 0, because 1 would result in a boxcar function.
+[39/150] offline   len= 50 rolloff=1 gap=0 noise=0.00 seed=4 -> OK lost=18 PDR=0.964
+ofdm_cyclic_prefixer :warning: Set rolloff to 0, because 1 would result in a boxcar function.
+[40/150] offline   len= 50 rolloff=1 gap=0 noise=0.00 seed=5 -> OK lost=19 PDR=0.962
+[41/150] offline   len= 50 rolloff=2 gap=0 noise=0.00 seed=1 -> OK lost=0 PDR=1.0
+[42/150] offline   len= 50 rolloff=2 gap=0 noise=0.00 seed=2 -> OK lost=2 PDR=0.996
+[43/150] offline   len= 50 rolloff=2 gap=0 noise=0.00 seed=3 -> OK lost=2 PDR=0.996
+[44/150] offline   len= 50 rolloff=2 gap=0 noise=0.00 seed=4 -> OK lost=0 PDR=1.0
+[45/150] offline   len= 50 rolloff=2 gap=0 noise=0.00 seed=5 -> OK lost=0 PDR=1.0
+[46/150] offline   len= 50 rolloff=4 gap=0 noise=0.00 seed=1 -> OK lost=0 PDR=1.0
+[47/150] offline   len= 50 rolloff=4 gap=0 noise=0.00 seed=2 -> OK lost=0 PDR=1.0
+[48/150] offline   len= 50 rolloff=4 gap=0 noise=0.00 seed=3 -> OK lost=0 PDR=1.0
+[49/150] offline   len= 50 rolloff=4 gap=0 noise=0.00 seed=4 -> OK lost=0 PDR=1.0
+[50/150] offline   len= 50 rolloff=4 gap=0 noise=0.00 seed=5 -> OK lost=0 PDR=1.0
+[51/150] offline   len= 50 rolloff=0 gap=1 noise=0.00 seed=1 -> OK lost=0 PDR=1.0
+[52/150] offline   len= 50 rolloff=0 gap=1 noise=0.00 seed=2 -> OK lost=0 PDR=1.0
+[53/150] offline   len= 50 rolloff=0 gap=1 noise=0.00 seed=3 -> OK lost=0 PDR=1.0
+[54/150] offline   len= 50 rolloff=0 gap=1 noise=0.00 seed=4 -> OK lost=0 PDR=1.0
+[55/150] offline   len= 50 rolloff=0 gap=1 noise=0.00 seed=5 -> OK lost=0 PDR=1.0
+[56/150] offline   len= 50 rolloff=0 gap=8 noise=0.00 seed=1 -> OK lost=0 PDR=1.0
+[57/150] offline   len= 50 rolloff=0 gap=8 noise=0.00 seed=2 -> OK lost=0 PDR=1.0
+[58/150] offline   len= 50 rolloff=0 gap=8 noise=0.00 seed=3 -> OK lost=0 PDR=1.0
+[59/150] offline   len= 50 rolloff=0 gap=8 noise=0.00 seed=4 -> OK lost=0 PDR=1.0
+[60/150] offline   len= 50 rolloff=0 gap=8 noise=0.00 seed=5 -> OK lost=0 PDR=1.0
+[61/150] streaming len= 20 rolloff=0 gap=0 noise=0.00 seed=1 -> OK lost=27 PDR=0.946
+[62/150] streaming len= 20 rolloff=0 gap=0 noise=0.00 seed=2 -> OK lost=19 PDR=0.962
+[63/150] streaming len= 20 rolloff=0 gap=0 noise=0.00 seed=3 -> OK lost=15 PDR=0.97
+[64/150] streaming len= 20 rolloff=0 gap=0 noise=0.00 seed=4 -> OK lost=22 PDR=0.956
+[65/150] streaming len= 20 rolloff=0 gap=0 noise=0.00 seed=5 -> OK lost=17 PDR=0.966
+[66/150] streaming len= 50 rolloff=0 gap=0 noise=0.00 seed=1 -> OK lost=26 PDR=0.948
+[67/150] streaming len= 50 rolloff=0 gap=0 noise=0.00 seed=2 -> OK lost=21 PDR=0.958
+[68/150] streaming len= 50 rolloff=0 gap=0 noise=0.00 seed=3 -> OK lost=19 PDR=0.962
+[69/150] streaming len= 50 rolloff=0 gap=0 noise=0.00 seed=4 -> OK lost=18 PDR=0.964
+[70/150] streaming len= 50 rolloff=0 gap=0 noise=0.00 seed=5 -> OK lost=19 PDR=0.962
+[71/150] streaming len=100 rolloff=0 gap=0 noise=0.00 seed=1 -> OK lost=0 PDR=1.0
+[72/150] streaming len=100 rolloff=0 gap=0 noise=0.00 seed=2 -> OK lost=0 PDR=1.0
+[73/150] streaming len=100 rolloff=0 gap=0 noise=0.00 seed=3 -> OK lost=0 PDR=1.0
+[74/150] streaming len=100 rolloff=0 gap=0 noise=0.00 seed=4 -> OK lost=0 PDR=1.0
+[75/150] streaming len=100 rolloff=0 gap=0 noise=0.00 seed=5 -> OK lost=0 PDR=1.0
+[76/150] streaming len=200 rolloff=0 gap=0 noise=0.00 seed=1 -> OK lost=16 PDR=0.968
+[77/150] streaming len=200 rolloff=0 gap=0 noise=0.00 seed=2 -> OK lost=16 PDR=0.968
+[78/150] streaming len=200 rolloff=0 gap=0 noise=0.00 seed=3 -> OK lost=22 PDR=0.956
+[79/150] streaming len=200 rolloff=0 gap=0 noise=0.00 seed=4 -> OK lost=27 PDR=0.946
+[80/150] streaming len=200 rolloff=0 gap=0 noise=0.00 seed=5 -> OK lost=23 PDR=0.954
+[81/150] streaming len= 50 rolloff=0 gap=0 noise=0.00 seed=1 -> OK lost=26 PDR=0.948
+[82/150] streaming len= 50 rolloff=0 gap=0 noise=0.00 seed=2 -> OK lost=21 PDR=0.958
+[83/150] streaming len= 50 rolloff=0 gap=0 noise=0.00 seed=3 -> OK lost=20 PDR=0.96
+[84/150] streaming len= 50 rolloff=0 gap=0 noise=0.00 seed=4 -> OK lost=18 PDR=0.964
+[85/150] streaming len= 50 rolloff=0 gap=0 noise=0.00 seed=5 -> OK lost=19 PDR=0.962
+[86/150] streaming len= 50 rolloff=4 gap=0 noise=0.00 seed=1 -> OK lost=0 PDR=1.0
+[87/150] streaming len= 50 rolloff=4 gap=0 noise=0.00 seed=2 -> OK lost=0 PDR=1.0
+[88/150] streaming len= 50 rolloff=4 gap=0 noise=0.00 seed=3 -> OK lost=0 PDR=1.0
+[89/150] streaming len= 50 rolloff=4 gap=0 noise=0.00 seed=4 -> OK lost=0 PDR=1.0
+[90/150] streaming len= 50 rolloff=4 gap=0 noise=0.00 seed=5 -> OK lost=0 PDR=1.0
+[91/150] streaming len= 50 rolloff=0 gap=0 noise=0.05 seed=1 -> OK lost=26 PDR=0.948
+[92/150] streaming len= 50 rolloff=0 gap=0 noise=0.05 seed=2 -> OK lost=21 PDR=0.958
+[93/150] streaming len= 50 rolloff=0 gap=0 noise=0.05 seed=3 -> OK lost=19 PDR=0.962
+[94/150] streaming len= 50 rolloff=0 gap=0 noise=0.05 seed=4 -> OK lost=18 PDR=0.964
+[95/150] streaming len= 50 rolloff=0 gap=0 noise=0.05 seed=5 -> OK lost=19 PDR=0.962
+[96/150] streaming len= 50 rolloff=4 gap=0 noise=0.05 seed=1 -> OK lost=0 PDR=1.0
+[97/150] streaming len= 50 rolloff=4 gap=0 noise=0.05 seed=2 -> OK lost=0 PDR=1.0
+[98/150] streaming len= 50 rolloff=4 gap=0 noise=0.05 seed=3 -> OK lost=0 PDR=1.0
+[99/150] streaming len= 50 rolloff=4 gap=0 noise=0.05 seed=4 -> OK lost=0 PDR=1.0
+[100/150] streaming len= 50 rolloff=4 gap=0 noise=0.05 seed=5 -> OK lost=0 PDR=1.0
+[101/150] streaming len= 50 rolloff=0 gap=0 noise=0.10 seed=1 -> OK lost=24 PDR=0.952
+[102/150] streaming len= 50 rolloff=0 gap=0 noise=0.10 seed=2 -> OK lost=22 PDR=0.956
+[103/150] streaming len= 50 rolloff=0 gap=0 noise=0.10 seed=3 -> OK lost=18 PDR=0.964
+[104/150] streaming len= 50 rolloff=0 gap=0 noise=0.10 seed=4 -> OK lost=19 PDR=0.962
+[105/150] streaming len= 50 rolloff=0 gap=0 noise=0.10 seed=5 -> OK lost=19 PDR=0.962
+[106/150] streaming len= 50 rolloff=4 gap=0 noise=0.10 seed=1 -> OK lost=0 PDR=1.0
+[107/150] streaming len= 50 rolloff=4 gap=0 noise=0.10 seed=2 -> OK lost=0 PDR=1.0
+[108/150] streaming len= 50 rolloff=4 gap=0 noise=0.10 seed=3 -> OK lost=0 PDR=1.0
+[109/150] streaming len= 50 rolloff=4 gap=0 noise=0.10 seed=4 -> OK lost=0 PDR=1.0
+[110/150] streaming len= 50 rolloff=4 gap=0 noise=0.10 seed=5 -> OK lost=0 PDR=1.0
+[111/150] streaming len= 50 rolloff=0 gap=0 noise=0.20 seed=1 -> OK lost=28 PDR=0.944
+[112/150] streaming len= 50 rolloff=0 gap=0 noise=0.20 seed=2 -> OK lost=25 PDR=0.95
+[113/150] streaming len= 50 rolloff=0 gap=0 noise=0.20 seed=3 -> OK lost=21 PDR=0.958
+[114/150] streaming len= 50 rolloff=0 gap=0 noise=0.20 seed=4 -> OK lost=19 PDR=0.962
+[115/150] streaming len= 50 rolloff=0 gap=0 noise=0.20 seed=5 -> OK lost=29 PDR=0.942
+[116/150] streaming len= 50 rolloff=4 gap=0 noise=0.20 seed=1 -> OK lost=0 PDR=1.0
+[117/150] streaming len= 50 rolloff=4 gap=0 noise=0.20 seed=2 -> OK lost=0 PDR=1.0
+[118/150] streaming len= 50 rolloff=4 gap=0 noise=0.20 seed=3 -> OK lost=0 PDR=1.0
+[119/150] streaming len= 50 rolloff=4 gap=0 noise=0.20 seed=4 -> OK lost=0 PDR=1.0
+[120/150] streaming len= 50 rolloff=4 gap=0 noise=0.20 seed=5 -> OK lost=0 PDR=1.0
+[121/150] streaming len= 50 rolloff=0 gap=0 noise=0.30 seed=1 -> OK lost=31 PDR=0.938
+[122/150] streaming len= 50 rolloff=0 gap=0 noise=0.30 seed=2 -> OK lost=30 PDR=0.94
+[123/150] streaming len= 50 rolloff=0 gap=0 noise=0.30 seed=3 -> OK lost=29 PDR=0.942
+[124/150] streaming len= 50 rolloff=0 gap=0 noise=0.30 seed=4 -> OK lost=35 PDR=0.93
+[125/150] streaming len= 50 rolloff=0 gap=0 noise=0.30 seed=5 -> OK lost=30 PDR=0.94
+[126/150] streaming len= 50 rolloff=4 gap=0 noise=0.30 seed=1 -> OK lost=0 PDR=1.0
+[127/150] streaming len= 50 rolloff=4 gap=0 noise=0.30 seed=2 -> OK lost=0 PDR=1.0
+[128/150] streaming len= 50 rolloff=4 gap=0 noise=0.30 seed=3 -> OK lost=0 PDR=1.0
+[129/150] streaming len= 50 rolloff=4 gap=0 noise=0.30 seed=4 -> OK lost=0 PDR=1.0
+[130/150] streaming len= 50 rolloff=4 gap=0 noise=0.30 seed=5 -> OK lost=0 PDR=1.0
+[131/150] streaming len= 50 rolloff=0 gap=0 noise=0.40 seed=1 -> OK lost=30 PDR=0.94
+[132/150] streaming len= 50 rolloff=0 gap=0 noise=0.40 seed=2 -> OK lost=25 PDR=0.95
+[133/150] streaming len= 50 rolloff=0 gap=0 noise=0.40 seed=3 -> OK lost=24 PDR=0.952
+[134/150] streaming len= 50 rolloff=0 gap=0 noise=0.40 seed=4 -> OK lost=34 PDR=0.932
+[135/150] streaming len= 50 rolloff=0 gap=0 noise=0.40 seed=5 -> OK lost=32 PDR=0.936
+[136/150] streaming len= 50 rolloff=4 gap=0 noise=0.40 seed=1 -> OK lost=0 PDR=1.0
+[137/150] streaming len= 50 rolloff=4 gap=0 noise=0.40 seed=2 -> OK lost=0 PDR=1.0
+[138/150] streaming len= 50 rolloff=4 gap=0 noise=0.40 seed=3 -> OK lost=0 PDR=1.0
+[139/150] streaming len= 50 rolloff=4 gap=0 noise=0.40 seed=4 -> OK lost=0 PDR=1.0
+[140/150] streaming len= 50 rolloff=4 gap=0 noise=0.40 seed=5 -> OK lost=0 PDR=1.0
+[141/150] streaming len= 50 rolloff=0 gap=0 noise=0.50 seed=1 -> OK lost=29 PDR=0.942
+[142/150] streaming len= 50 rolloff=0 gap=0 noise=0.50 seed=2 -> OK lost=27 PDR=0.946
+[143/150] streaming len= 50 rolloff=0 gap=0 noise=0.50 seed=3 -> OK lost=22 PDR=0.956
+[144/150] streaming len= 50 rolloff=0 gap=0 noise=0.50 seed=4 -> OK lost=28 PDR=0.944
+[145/150] streaming len= 50 rolloff=0 gap=0 noise=0.50 seed=5 -> OK lost=26 PDR=0.948
+[146/150] streaming len= 50 rolloff=4 gap=0 noise=0.50 seed=1 -> OK lost=0 PDR=1.0
+[147/150] streaming len= 50 rolloff=4 gap=0 noise=0.50 seed=2 -> OK lost=0 PDR=1.0
+[148/150] streaming len= 50 rolloff=4 gap=0 noise=0.50 seed=3 -> OK lost=0 PDR=1.0
+[149/150] streaming len= 50 rolloff=4 gap=0 noise=0.50 seed=4 -> OK lost=0 PDR=1.0
+[150/150] streaming len= 50 rolloff=4 gap=0 noise=0.50 seed=5 -> OK lost=0 PDR=1.0
+wrote ../../Results/packet_loss_sweep.csv

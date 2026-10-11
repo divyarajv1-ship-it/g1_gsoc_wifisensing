@@ -1,0 +1,132 @@
+TX power = 50.98
+SNR= 6 dB nv=3.579 rolloff=0 seed=1 -> OK PDR=0.0
+SNR= 6 dB nv=3.579 rolloff=0 seed=2 -> OK PDR=0.0
+SNR= 6 dB nv=3.579 rolloff=0 seed=3 -> OK PDR=0.0
+SNR= 6 dB nv=3.579 rolloff=0 seed=4 -> OK PDR=0.0
+SNR= 6 dB nv=3.579 rolloff=0 seed=5 -> OK PDR=0.0
+SNR= 6 dB nv=3.579 rolloff=4 seed=1 -> OK PDR=0.0
+SNR= 6 dB nv=3.579 rolloff=4 seed=2 -> OK PDR=0.0
+SNR= 6 dB nv=3.579 rolloff=4 seed=3 -> OK PDR=0.0
+SNR= 6 dB nv=3.579 rolloff=4 seed=4 -> OK PDR=0.0
+SNR= 6 dB nv=3.579 rolloff=4 seed=5 -> OK PDR=0.0
+SNR= 8 dB nv=2.843 rolloff=0 seed=1 -> OK PDR=0.0
+SNR= 8 dB nv=2.843 rolloff=0 seed=2 -> OK PDR=0.0
+SNR= 8 dB nv=2.843 rolloff=0 seed=3 -> OK PDR=0.0
+SNR= 8 dB nv=2.843 rolloff=0 seed=4 -> OK PDR=0.0
+SNR= 8 dB nv=2.843 rolloff=0 seed=5 -> OK PDR=0.0
+SNR= 8 dB nv=2.843 rolloff=4 seed=1 -> OK PDR=0.0
+SNR= 8 dB nv=2.843 rolloff=4 seed=2 -> OK PDR=0.0
+SNR= 8 dB nv=2.843 rolloff=4 seed=3 -> OK PDR=0.0
+SNR= 8 dB nv=2.843 rolloff=4 seed=4 -> OK PDR=0.0
+SNR= 8 dB nv=2.843 rolloff=4 seed=5 -> OK PDR=0.0
+SNR= 9 dB nv=2.533 rolloff=0 seed=1 -> OK PDR=0.0
+SNR= 9 dB nv=2.533 rolloff=0 seed=2 -> OK PDR=0.0
+SNR= 9 dB nv=2.533 rolloff=0 seed=3 -> OK PDR=0.0
+SNR= 9 dB nv=2.533 rolloff=0 seed=4 -> OK PDR=0.0
+SNR= 9 dB nv=2.533 rolloff=0 seed=5 -> OK PDR=0.0
+SNR= 9 dB nv=2.533 rolloff=4 seed=1 -> OK PDR=0.0
+SNR= 9 dB nv=2.533 rolloff=4 seed=2 -> OK PDR=0.0
+SNR= 9 dB nv=2.533 rolloff=4 seed=3 -> OK PDR=0.0
+SNR= 9 dB nv=2.533 rolloff=4 seed=4 -> OK PDR=0.0
+SNR= 9 dB nv=2.533 rolloff=4 seed=5 -> OK PDR=0.0
+SNR=10 dB nv=2.258 rolloff=0 seed=1 -> OK PDR=0.006666666666666667
+SNR=10 dB nv=2.258 rolloff=0 seed=2 -> OK PDR=0.0
+SNR=10 dB nv=2.258 rolloff=0 seed=3 -> OK PDR=0.01
+SNR=10 dB nv=2.258 rolloff=0 seed=4 -> OK PDR=0.016666666666666666
+SNR=10 dB nv=2.258 rolloff=0 seed=5 -> OK PDR=0.01
+SNR=10 dB nv=2.258 rolloff=4 seed=1 -> OK PDR=0.01
+SNR=10 dB nv=2.258 rolloff=4 seed=2 -> OK PDR=0.016666666666666666
+SNR=10 dB nv=2.258 rolloff=4 seed=3 -> OK PDR=0.013333333333333334
+SNR=10 dB nv=2.258 rolloff=4 seed=4 -> OK PDR=0.006666666666666667
+SNR=10 dB nv=2.258 rolloff=4 seed=5 -> OK PDR=0.02
+SNR=11 dB nv=2.012 rolloff=0 seed=1 -> OK PDR=0.08333333333333333
+SNR=11 dB nv=2.012 rolloff=0 seed=2 -> OK PDR=0.08
+SNR=11 dB nv=2.012 rolloff=0 seed=3 -> OK PDR=0.08333333333333333
+SNR=11 dB nv=2.012 rolloff=0 seed=4 -> OK PDR=0.09666666666666666
+SNR=11 dB nv=2.012 rolloff=0 seed=5 -> OK PDR=0.11
+SNR=11 dB nv=2.012 rolloff=4 seed=1 -> OK PDR=0.10666666666666667
+SNR=11 dB nv=2.012 rolloff=4 seed=2 -> OK PDR=0.11
+SNR=11 dB nv=2.012 rolloff=4 seed=3 -> OK PDR=0.13666666666666666
+SNR=11 dB nv=2.012 rolloff=4 seed=4 -> OK PDR=0.08666666666666667
+SNR=11 dB nv=2.012 rolloff=4 seed=5 -> OK PDR=0.08
+SNR=12 dB nv=1.794 rolloff=0 seed=1 -> OK PDR=0.38666666666666666
+SNR=12 dB nv=1.794 rolloff=0 seed=2 -> OK PDR=0.3433333333333333
+SNR=12 dB nv=1.794 rolloff=0 seed=3 -> OK PDR=0.3933333333333333
+SNR=12 dB nv=1.794 rolloff=0 seed=4 -> OK PDR=0.36333333333333334
+SNR=12 dB nv=1.794 rolloff=0 seed=5 -> OK PDR=0.39
+SNR=12 dB nv=1.794 rolloff=4 seed=1 -> OK PDR=0.41
+SNR=12 dB nv=1.794 rolloff=4 seed=2 -> OK PDR=0.43333333333333335
+SNR=12 dB nv=1.794 rolloff=4 seed=3 -> OK PDR=0.37666666666666665
+SNR=12 dB nv=1.794 rolloff=4 seed=4 -> OK PDR=0.41333333333333333
+SNR=12 dB nv=1.794 rolloff=4 seed=5 -> OK PDR=0.39
+SNR=13 dB nv=1.599 rolloff=0 seed=1 -> OK PDR=0.6866666666666666
+SNR=13 dB nv=1.599 rolloff=0 seed=2 -> OK PDR=0.7
+SNR=13 dB nv=1.599 rolloff=0 seed=3 -> OK PDR=0.7266666666666667
+SNR=13 dB nv=1.599 rolloff=0 seed=4 -> OK PDR=0.6533333333333333
+SNR=13 dB nv=1.599 rolloff=0 seed=5 -> OK PDR=0.7066666666666667
+SNR=13 dB nv=1.599 rolloff=4 seed=1 -> OK PDR=0.83
+SNR=13 dB nv=1.599 rolloff=4 seed=2 -> OK PDR=0.7633333333333333
+SNR=13 dB nv=1.599 rolloff=4 seed=3 -> OK PDR=0.7666666666666667
+SNR=13 dB nv=1.599 rolloff=4 seed=4 -> OK PDR=0.7833333333333333
+SNR=13 dB nv=1.599 rolloff=4 seed=5 -> OK PDR=0.78
+SNR=14 dB nv=1.425 rolloff=0 seed=1 -> OK PDR=0.9566666666666667
+SNR=14 dB nv=1.425 rolloff=0 seed=2 -> OK PDR=0.9366666666666666
+SNR=14 dB nv=1.425 rolloff=0 seed=3 -> OK PDR=0.9333333333333333
+SNR=14 dB nv=1.425 rolloff=0 seed=4 -> OK PDR=0.93
+SNR=14 dB nv=1.425 rolloff=0 seed=5 -> OK PDR=0.9533333333333334
+SNR=14 dB nv=1.425 rolloff=4 seed=1 -> OK PDR=0.9666666666666667
+SNR=14 dB nv=1.425 rolloff=4 seed=2 -> OK PDR=0.9866666666666667
+SNR=14 dB nv=1.425 rolloff=4 seed=3 -> OK PDR=0.9833333333333333
+SNR=14 dB nv=1.425 rolloff=4 seed=4 -> OK PDR=0.9666666666666667
+SNR=14 dB nv=1.425 rolloff=4 seed=5 -> OK PDR=0.9666666666666667
+SNR=15 dB nv=1.270 rolloff=0 seed=1 -> OK PDR=1.0
+SNR=15 dB nv=1.270 rolloff=0 seed=2 -> OK PDR=1.0
+SNR=15 dB nv=1.270 rolloff=0 seed=3 -> OK PDR=0.9933333333333333
+SNR=15 dB nv=1.270 rolloff=0 seed=4 -> OK PDR=0.9933333333333333
+SNR=15 dB nv=1.270 rolloff=0 seed=5 -> OK PDR=0.9933333333333333
+SNR=15 dB nv=1.270 rolloff=4 seed=1 -> OK PDR=1.0
+SNR=15 dB nv=1.270 rolloff=4 seed=2 -> OK PDR=1.0
+SNR=15 dB nv=1.270 rolloff=4 seed=3 -> OK PDR=1.0
+SNR=15 dB nv=1.270 rolloff=4 seed=4 -> OK PDR=1.0
+SNR=15 dB nv=1.270 rolloff=4 seed=5 -> OK PDR=1.0
+SNR=17 dB nv=1.009 rolloff=0 seed=1 -> OK PDR=0.9866666666666667
+SNR=17 dB nv=1.009 rolloff=0 seed=2 -> OK PDR=0.99
+SNR=17 dB nv=1.009 rolloff=0 seed=3 -> OK PDR=0.9833333333333333
+SNR=17 dB nv=1.009 rolloff=0 seed=4 -> OK PDR=0.99
+SNR=17 dB nv=1.009 rolloff=0 seed=5 -> OK PDR=0.9766666666666667
+SNR=17 dB nv=1.009 rolloff=4 seed=1 -> OK PDR=1.0
+SNR=17 dB nv=1.009 rolloff=4 seed=2 -> OK PDR=1.0
+SNR=17 dB nv=1.009 rolloff=4 seed=3 -> OK PDR=1.0
+SNR=17 dB nv=1.009 rolloff=4 seed=4 -> OK PDR=1.0
+SNR=17 dB nv=1.009 rolloff=4 seed=5 -> OK PDR=1.0
+SNR=20 dB nv=0.714 rolloff=0 seed=1 -> OK PDR=0.96
+SNR=20 dB nv=0.714 rolloff=0 seed=2 -> OK PDR=0.97
+SNR=20 dB nv=0.714 rolloff=0 seed=3 -> OK PDR=0.9666666666666667
+SNR=20 dB nv=0.714 rolloff=0 seed=4 -> OK PDR=0.9566666666666667
+SNR=20 dB nv=0.714 rolloff=0 seed=5 -> OK PDR=0.9666666666666667
+SNR=20 dB nv=0.714 rolloff=4 seed=1 -> OK PDR=1.0
+SNR=20 dB nv=0.714 rolloff=4 seed=2 -> OK PDR=1.0
+SNR=20 dB nv=0.714 rolloff=4 seed=3 -> OK PDR=1.0
+SNR=20 dB nv=0.714 rolloff=4 seed=4 -> OK PDR=1.0
+SNR=20 dB nv=0.714 rolloff=4 seed=5 -> OK PDR=1.0
+SNR=25 dB nv=0.402 rolloff=0 seed=1 -> OK PDR=0.9466666666666667
+SNR=25 dB nv=0.402 rolloff=0 seed=2 -> OK PDR=0.94
+SNR=25 dB nv=0.402 rolloff=0 seed=3 -> OK PDR=0.9433333333333334
+SNR=25 dB nv=0.402 rolloff=0 seed=4 -> OK PDR=0.94
+SNR=25 dB nv=0.402 rolloff=0 seed=5 -> OK PDR=0.9433333333333334
+SNR=25 dB nv=0.402 rolloff=4 seed=1 -> OK PDR=1.0
+SNR=25 dB nv=0.402 rolloff=4 seed=2 -> OK PDR=1.0
+SNR=25 dB nv=0.402 rolloff=4 seed=3 -> OK PDR=1.0
+SNR=25 dB nv=0.402 rolloff=4 seed=4 -> OK PDR=1.0
+SNR=25 dB nv=0.402 rolloff=4 seed=5 -> OK PDR=1.0
+SNR=30 dB nv=0.226 rolloff=0 seed=1 -> OK PDR=0.94
+SNR=30 dB nv=0.226 rolloff=0 seed=2 -> OK PDR=0.94
+SNR=30 dB nv=0.226 rolloff=0 seed=3 -> OK PDR=0.95
+SNR=30 dB nv=0.226 rolloff=0 seed=4 -> OK PDR=0.9466666666666667
+SNR=30 dB nv=0.226 rolloff=0 seed=5 -> OK PDR=0.9433333333333334
+SNR=30 dB nv=0.226 rolloff=4 seed=1 -> OK PDR=1.0
+SNR=30 dB nv=0.226 rolloff=4 seed=2 -> OK PDR=1.0
+SNR=30 dB nv=0.226 rolloff=4 seed=3 -> OK PDR=1.0
+SNR=30 dB nv=0.226 rolloff=4 seed=4 -> OK PDR=1.0
+SNR=30 dB nv=0.226 rolloff=4 seed=5 -> OK PDR=1.0
+wrote ../../Results/snr_sweep.csv
