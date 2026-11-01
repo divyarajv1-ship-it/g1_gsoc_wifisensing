@@ -1,0 +1,16 @@
+# Reproducible environment for M2 + M3 experiments (no sudo needed).
+#   micromamba create -f environment.yml   (or: conda env create -f environment.yml)
+#   micromamba activate g1-gr310
+# M3 results were produced with GNU Radio 3.10.9.2 (Ubuntu 24.04 apt package, Python 3.12);
+# M2 results with 3.10.12.0 (conda-forge). Both give the same M2 packet-loss numbers.
+# Alternative on Ubuntu 24.04:  sudo apt install gnuradio python3-numpy python3-matplotlib python3-pandas
+name: g1-gr310
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - gnuradio-core=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - pytest
