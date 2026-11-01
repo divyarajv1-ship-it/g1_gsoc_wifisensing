@@ -1,0 +1,12 @@
+GNU Radio 3.10.9.2
+test_005_tx_multipacket_rolloff (__main__.TestMultipacket.test_005_tx_multipacket_rolloff)
+The proposed upstream test (100 x 50 B, rolloff 4). ... ok
+test_negative_control_rolloff0_detects_bug (__main__.TestMultipacket.test_negative_control_rolloff0_detects_bug)
+Same test with the stock setting must lose data (it is #6891). ... ok
+test_rolloff4_many_lengths_and_seeds (__main__.TestMultipacket.test_rolloff4_many_lengths_and_seeds)
+Robustness of the fix beyond the single case used upstream. ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 1.289s
+
+OK
