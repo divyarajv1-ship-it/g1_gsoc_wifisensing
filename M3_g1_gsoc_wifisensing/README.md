@@ -67,15 +67,12 @@ M3 numbers were produced with GNU Radio 3.10.9.2 (Python 3.12); M2's numbers rep
 * **SNR** = mean TX sample power / noise power. **Freeze** = no progress within the timeout (`HANG`).
 
 ## Contribution status
-| Item | Status |
-|---|---|
-| Multi-packet QA test + example fix (`rolloff=4`) | written (M2), re-validated on a second GR build (M3) |
-| Issue comments #6891 / #7997 | **[TEAM: posted on … / link]** |
-| Pull request to gnuradio/gnuradio | **[TEAM: link + state, or "not yet opened"]** |
-| Maintainer feedback | **[TEAM]** |
+| Issue comments #6891 / #7997 | #6891 posted 11/11/2026: [<issue comment link>](https://github.com/gnuradio/gnuradio/issues/6891#issuecomment-6787055390) ; #7997 not yet posted |
+| Pull request to gnuradio/gnuradio | [#8271](https://github.com/gnuradio/gnuradio/pull/8271), opened 11/11/2026: open, awaiting review |
+| Maintainer feedback | none yet |
 
 ## Limitations
 Simulation only; synthetic channels; #7997's own flowgraph unavailable; the jitter-free packet lengths
 are observed but not explained; uncoded BPSK limits low-SNR multipath performance; ≥ 1020 B packets fail.
 
-Video: **[TEAM: link, if required]**
+
