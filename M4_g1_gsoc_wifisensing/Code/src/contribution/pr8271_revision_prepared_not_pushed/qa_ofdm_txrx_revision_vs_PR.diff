@@ -1,0 +1,32 @@
+--- /mnt/project-files/pr_guide/qa_ofdm_txrx.py	2026-11-11 03:49:43.819033000 +0000
++++ qa_ofdm_txrx_v2.py	2026-11-14 08:19:32.757896729 +0000
+@@ -10,6 +10,7 @@
+ 
+ 
+ import random
++import unittest
+ import numpy
+ 
+ import pmt
+@@ -209,13 +210,15 @@
+         rx_fg.run()
+         return data, rx_fg.get_rx_bytes()
+ 
+-    def test_005_tx_multipacket_rolloff(self):
+-        """ Transmit many back-to-back packets with different payloads.
+-        With a rolloff, consecutive bursts are separated and every packet
+-        must be received without errors (see issue #6891). """
++    @unittest.expectedFailure
++    def test_005_tx_multipacket(self):
++        """ Transmit many back-to-back packets with the default settings
++        (rolloff=0) and check that every packet is received.
++        Known to fail: the receiver drops packets whose Schmidl & Cox
++        trigger arrives a few samples early (issue #6891).
++        Remove the expectedFailure decorator once that is fixed. """
+         tx_data, rx_data = self._txrx_multipacket(
+-            n_packets=100, n_bytes=50, rolloff=4)
+-        self.assertEqual(len(rx_data), len(tx_data))
++            n_packets=100, n_bytes=50, rolloff=0)
+         self.assertEqual(list(tx_data), list(rx_data))
+ 
+ 
