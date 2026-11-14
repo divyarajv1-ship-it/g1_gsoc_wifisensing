@@ -1,0 +1,51 @@
+15 0 1 {'n_tx': 500, 'lost': 485, 'pdr': 0.03, 'n_csi': 469, 'mapped': False, 'status': 'OK'}
+15 0 2 {'n_tx': 500, 'lost': 478, 'pdr': 0.044, 'n_csi': 436, 'mapped': False, 'status': 'OK'}
+15 0 3 {'n_tx': 500, 'lost': 314, 'pdr': 0.372, 'n_csi': 458, 'mapped': False, 'status': 'OK'}
+15 0 4 {'n_tx': 500, 'lost': 325, 'pdr': 0.35, 'n_csi': 470, 'mapped': False, 'status': 'OK'}
+15 0 5 {'n_tx': 500, 'lost': 360, 'pdr': 0.28, 'n_csi': 456, 'mapped': False, 'status': 'OK'}
+15 4 1 {'n_tx': 500, 'lost': 484, 'pdr': 0.032, 'n_csi': 499, 'mapped': True, 'nmse_db': -18.8793, 'max_gap': 1, 'n_gaps': 4, 'f_seq': 0.4997, 'f_naive': 0.5013, 'f_true_amp': 0.4997, 'status': 'OK'}
+15 4 2 {'n_tx': 500, 'lost': 482, 'pdr': 0.036, 'n_csi': 470, 'mapped': False, 'status': 'OK'}
+15 4 3 {'n_tx': 500, 'lost': 294, 'pdr': 0.412, 'n_csi': 503, 'mapped': True, 'nmse_db': -19.0209, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 1.001, 'f_naive': 1.001, 'f_true_amp': 1.0002, 'status': 'OK'}
+15 4 4 {'n_tx': 500, 'lost': 312, 'pdr': 0.376, 'n_csi': 503, 'mapped': True, 'nmse_db': -19.871, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 0.5013, 'f_naive': 0.5013, 'f_true_amp': 0.4997, 'status': 'OK'}
+15 4 5 {'n_tx': 500, 'lost': 336, 'pdr': 0.328, 'n_csi': 503, 'mapped': True, 'nmse_db': -19.8616, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 0.5005, 'f_naive': 0.5005, 'f_true_amp': 0.4997, 'status': 'OK'}
+20 0 1 {'n_tx': 500, 'lost': 333, 'pdr': 0.334, 'n_csi': 477, 'mapped': False, 'status': 'OK'}
+20 0 2 {'n_tx': 500, 'lost': 376, 'pdr': 0.248, 'n_csi': 480, 'mapped': False, 'status': 'OK'}
+20 0 3 {'n_tx': 500, 'lost': 172, 'pdr': 0.656, 'n_csi': 468, 'mapped': False, 'status': 'OK'}
+20 0 4 {'n_tx': 500, 'lost': 190, 'pdr': 0.62, 'n_csi': 459, 'mapped': False, 'status': 'OK'}
+20 0 5 {'n_tx': 500, 'lost': 171, 'pdr': 0.658, 'n_csi': 451, 'mapped': False, 'status': 'OK'}
+20 4 1 {'n_tx': 500, 'lost': 317, 'pdr': 0.366, 'n_csi': 503, 'mapped': True, 'nmse_db': -23.7758, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 0.4997, 'f_naive': 0.4997, 'f_true_amp': 0.4997, 'status': 'OK'}
+20 4 2 {'n_tx': 500, 'lost': 373, 'pdr': 0.254, 'n_csi': 503, 'mapped': True, 'nmse_db': -23.2715, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 0.4997, 'f_naive': 0.4997, 'f_true_amp': 0.4997, 'status': 'OK'}
+20 4 3 {'n_tx': 500, 'lost': 124, 'pdr': 0.752, 'n_csi': 503, 'mapped': True, 'nmse_db': -23.9159, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 1.001, 'f_naive': 1.001, 'f_true_amp': 1.0002, 'status': 'OK'}
+20 4 4 {'n_tx': 500, 'lost': 155, 'pdr': 0.69, 'n_csi': 503, 'mapped': True, 'nmse_db': -24.7936, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 0.5005, 'f_naive': 0.5005, 'f_true_amp': 0.4997, 'status': 'OK'}
+20 4 5 {'n_tx': 500, 'lost': 131, 'pdr': 0.738, 'n_csi': 503, 'mapped': True, 'nmse_db': -24.7639, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 0.5005, 'f_naive': 0.5005, 'f_true_amp': 0.4997, 'status': 'OK'}
+25 0 1 {'n_tx': 500, 'lost': 130, 'pdr': 0.74, 'n_csi': 477, 'mapped': False, 'status': 'OK'}
+25 0 2 {'n_tx': 500, 'lost': 174, 'pdr': 0.652, 'n_csi': 477, 'mapped': False, 'status': 'OK'}
+25 0 3 {'n_tx': 500, 'lost': 106, 'pdr': 0.788, 'n_csi': 454, 'mapped': True, 'nmse_db': -28.9318, 'max_gap': 1, 'n_gaps': 48, 'f_seq': 1.0002, 'f_naive': 1.0834, 'f_true_amp': 1.0002, 'status': 'OK'}
+25 0 4 {'n_tx': 500, 'lost': 89, 'pdr': 0.822, 'n_csi': 465, 'mapped': False, 'status': 'OK'}
+25 0 5 {'n_tx': 500, 'lost': 102, 'pdr': 0.796, 'n_csi': 453, 'mapped': False, 'status': 'OK'}
+25 4 1 {'n_tx': 500, 'lost': 110, 'pdr': 0.78, 'n_csi': 503, 'mapped': True, 'nmse_db': -28.7323, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 0.4997, 'f_naive': 0.4997, 'f_true_amp': 0.4997, 'status': 'OK'}
+25 4 2 {'n_tx': 500, 'lost': 165, 'pdr': 0.67, 'n_csi': 503, 'mapped': True, 'nmse_db': -28.2208, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 0.4997, 'f_naive': 0.4997, 'f_true_amp': 0.4997, 'status': 'OK'}
+25 4 3 {'n_tx': 500, 'lost': 64, 'pdr': 0.872, 'n_csi': 503, 'mapped': True, 'nmse_db': -28.8813, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 1.0002, 'f_naive': 1.0002, 'f_true_amp': 1.0002, 'status': 'OK'}
+25 4 4 {'n_tx': 500, 'lost': 60, 'pdr': 0.88, 'n_csi': 503, 'mapped': True, 'nmse_db': -29.7667, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 0.5005, 'f_naive': 0.5005, 'f_true_amp': 0.4997, 'status': 'OK'}
+25 4 5 {'n_tx': 500, 'lost': 54, 'pdr': 0.892, 'n_csi': 503, 'mapped': True, 'nmse_db': -29.7385, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 0.5005, 'f_naive': 0.5005, 'f_true_amp': 0.4997, 'status': 'OK'}
+30 0 1 {'n_tx': 500, 'lost': 53, 'pdr': 0.894, 'n_csi': 471, 'mapped': True, 'nmse_db': -33.7408, 'max_gap': 1, 'n_gaps': 32, 'f_seq': 0.4997, 'f_naive': 0.5371, 'f_true_amp': 0.4997, 'status': 'OK'}
+30 0 2 {'n_tx': 500, 'lost': 99, 'pdr': 0.802, 'n_csi': 472, 'mapped': False, 'status': 'OK'}
+30 0 3 {'n_tx': 500, 'lost': 66, 'pdr': 0.868, 'n_csi': 461, 'mapped': True, 'nmse_db': -33.9361, 'max_gap': 1, 'n_gaps': 41, 'f_seq': 1.0002, 'f_naive': 1.0689, 'f_true_amp': 1.0002, 'status': 'OK'}
+30 0 4 {'n_tx': 500, 'lost': 65, 'pdr': 0.87, 'n_csi': 461, 'mapped': True, 'nmse_db': -34.8103, 'max_gap': 1, 'n_gaps': 42, 'f_seq': 0.4997, 'f_naive': 0.5424, 'f_true_amp': 0.4997, 'status': 'OK'}
+30 0 5 {'n_tx': 500, 'lost': 73, 'pdr': 0.854, 'n_csi': 451, 'mapped': False, 'status': 'OK'}
+30 4 1 {'n_tx': 500, 'lost': 32, 'pdr': 0.936, 'n_csi': 503, 'mapped': True, 'nmse_db': -33.7189, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 0.4997, 'f_naive': 0.4997, 'f_true_amp': 0.4997, 'status': 'OK'}
+30 4 2 {'n_tx': 500, 'lost': 68, 'pdr': 0.864, 'n_csi': 503, 'mapped': True, 'nmse_db': -33.2061, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 0.4997, 'f_naive': 0.4997, 'f_true_amp': 0.4997, 'status': 'OK'}
+30 4 3 {'n_tx': 500, 'lost': 26, 'pdr': 0.948, 'n_csi': 503, 'mapped': True, 'nmse_db': -33.8649, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 1.0002, 'f_naive': 1.0002, 'f_true_amp': 1.0002, 'status': 'OK'}
+30 4 4 {'n_tx': 500, 'lost': 25, 'pdr': 0.95, 'n_csi': 503, 'mapped': True, 'nmse_db': -34.7555, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 0.5005, 'f_naive': 0.5005, 'f_true_amp': 0.4997, 'status': 'OK'}
+30 4 5 {'n_tx': 500, 'lost': 25, 'pdr': 0.95, 'n_csi': 503, 'mapped': True, 'nmse_db': -34.7252, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 0.5005, 'f_naive': 0.5005, 'f_true_amp': 0.4997, 'status': 'OK'}
+None 0 1 {'n_tx': 500, 'lost': 31, 'pdr': 0.938, 'n_csi': 472, 'mapped': True, 'nmse_db': -140.0655, 'max_gap': 1, 'n_gaps': 31, 'f_seq': 0.4997, 'f_naive': 0.5333, 'f_true_amp': 0.4997, 'status': 'OK'}
+None 0 2 {'n_tx': 500, 'lost': 32, 'pdr': 0.936, 'n_csi': 471, 'mapped': True, 'nmse_db': -69.7829, 'max_gap': 1, 'n_gaps': 32, 'f_seq': 0.4997, 'f_naive': 0.5333, 'f_true_amp': 0.4997, 'status': 'OK'}
+None 0 3 {'n_tx': 500, 'lost': 46, 'pdr': 0.908, 'n_csi': 456, 'mapped': True, 'nmse_db': -136.9281, 'max_gap': 1, 'n_gaps': 46, 'f_seq': 1.0002, 'f_naive': 1.0803, 'f_true_amp': 1.0002, 'status': 'OK'}
+None 0 4 {'n_tx': 500, 'lost': 39, 'pdr': 0.922, 'n_csi': 464, 'mapped': True, 'nmse_db': -140.5726, 'max_gap': 1, 'n_gaps': 39, 'f_seq': 0.4997, 'f_naive': 0.5409, 'f_true_amp': 0.4997, 'status': 'OK'}
+None 0 5 {'n_tx': 500, 'lost': 46, 'pdr': 0.908, 'n_csi': 457, 'mapped': True, 'nmse_db': -140.7386, 'max_gap': 1, 'n_gaps': 46, 'f_seq': 0.4997, 'f_naive': 0.5363, 'f_true_amp': 0.4997, 'status': 'OK'}
+None 4 1 {'n_tx': 500, 'lost': 0, 'pdr': 1.0, 'n_csi': 503, 'mapped': True, 'nmse_db': -140.2832, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 0.4997, 'f_naive': 0.4997, 'f_true_amp': 0.4997, 'status': 'OK'}
+None 4 2 {'n_tx': 500, 'lost': 0, 'pdr': 1.0, 'n_csi': 503, 'mapped': True, 'nmse_db': -93.8859, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 0.4997, 'f_naive': 0.4997, 'f_true_amp': 0.4997, 'status': 'OK'}
+None 4 3 {'n_tx': 500, 'lost': 0, 'pdr': 1.0, 'n_csi': 503, 'mapped': True, 'nmse_db': -136.9422, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 1.0002, 'f_naive': 1.0002, 'f_true_amp': 1.0002, 'status': 'OK'}
+None 4 4 {'n_tx': 500, 'lost': 0, 'pdr': 1.0, 'n_csi': 503, 'mapped': True, 'nmse_db': -137.4913, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 0.4997, 'f_naive': 0.4997, 'f_true_amp': 0.4997, 'status': 'OK'}
+None 4 5 {'n_tx': 500, 'lost': 0, 'pdr': 1.0, 'n_csi': 503, 'mapped': True, 'nmse_db': -137.2298, 'max_gap': 0, 'n_gaps': 0, 'f_seq': 0.4997, 'f_naive': 0.4997, 'f_true_amp': 0.4997, 'status': 'OK'}
+wrote ../../Results/e9_csi_sensing.csv

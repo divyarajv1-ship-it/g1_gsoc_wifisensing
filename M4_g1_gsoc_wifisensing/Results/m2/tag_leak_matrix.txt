@@ -1,0 +1,7 @@
+thread_body_wrapper :error: ERROR thread[thread-per-block[27]: <block header_payload_demux(31)>]: Buffer too small for min_noutput_items
+no channel, RX key = TX key              -> HANG (no progress after 40 s)
+no channel, RX key = 'rx_len'            -> finished in  0.1 s, 299/300 packets out
+thread_body_wrapper :error: ERROR thread[thread-per-block[33]: <block header_payload_demux(31)>]: Buffer too small for min_noutput_items
+channel block_tags=False, same key       -> HANG (no progress after 40 s)
+channel block_tags=True,  same key       -> finished in  0.1 s, 299/300 packets out
+channel block_tags=False, 'rx_len'       -> finished in  0.1 s, 299/300 packets out

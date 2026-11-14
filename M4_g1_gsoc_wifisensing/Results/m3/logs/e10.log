@@ -1,0 +1,25 @@
+100 default OK 20
+100 rx_tx_big OK 20
+100 all_big OK 20
+250 default OK 20
+250 rx_tx_big OK 20
+250 all_big OK 20
+thread_body_wrapper :error: ERROR thread[thread-per-block[11]: <block ofdm_cyclic_prefixer(13)>]: Buffer too small for min_noutput_items
+300 default HANG None
+300 rx_tx_big OK 20
+300 all_big OK 20
+thread_body_wrapper :error: ERROR thread[thread-per-block[8]: <block tagged_stream_mux(7)>]: Buffer too small for min_noutput_items
+600 default HANG None
+600 rx_tx_big OK 20
+600 all_big OK 20
+thread_body_wrapper :error: ERROR thread[thread-per-block[8]: <block tagged_stream_mux(7)>]: Buffer too small for min_noutput_items
+1000 default HANG None
+1000 rx_tx_big OK 20
+1000 all_big OK 20
+block_executor :error: sched: <block tagged_stream_mux (7)> is requesting more input data  than we can provide.  ninput_items_required = 12032  max_possible_items_available = 8191  If this is a filter, consider reducing the number of taps.
+1500 default OK 0
+block_executor :error: sched: <block tagged_stream_mux (7)> is requesting more input data  than we can provide.  ninput_items_required = 12032  max_possible_items_available = 8191  If this is a filter, consider reducing the number of taps.
+1500 rx_tx_big OK 0
+block_executor :error: sched: <block tagged_stream_mux (7)> is requesting more input data  than we can provide.  ninput_items_required = 12032  max_possible_items_available = 8191  If this is a filter, consider reducing the number of taps.
+1500 all_big OK 0
+wrote ../../Results/e10_large_packets.csv

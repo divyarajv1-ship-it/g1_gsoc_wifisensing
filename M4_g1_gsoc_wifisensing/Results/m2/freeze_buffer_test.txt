@@ -1,0 +1,13 @@
+packet bytes | default buffers              | buffers = 65536 items       
+          50 | OK     20/20 received        | OK     20/20 received       
+         100 | OK     20/20 received        | OK     20/20 received       
+         200 | OK     20/20 received        | OK     20/20 received       
+         250 | OK     20/20 received        | OK     20/20 received       
+thread_body_wrapper :error: ERROR thread[thread-per-block[11]: <block ofdm_cyclic_prefixer(13)>]: Buffer too small for min_noutput_items
+         300 | HANG    -/20 received        | OK     20/20 received       
+thread_body_wrapper :error: ERROR thread[thread-per-block[9]: <block ofdm_carrier_allocator_cvc(11)>]: Buffer too small for min_noutput_items
+         400 | HANG    -/20 received        | OK     20/20 received       
+thread_body_wrapper :error: ERROR thread[thread-per-block[8]: <block tagged_stream_mux(7)>]: Buffer too small for min_noutput_items
+         600 | HANG    -/20 received        | OK     20/20 received       
+thread_body_wrapper :error: ERROR thread[thread-per-block[8]: <block tagged_stream_mux(7)>]: Buffer too small for min_noutput_items
+         800 | HANG    -/20 received        | OK     20/20 received       

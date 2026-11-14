@@ -1,0 +1,46 @@
+0 0 50 1 OK lost 26 short 26 match True off [70, 71, 72, 73] sp 957 963 frame 960 burst 960
+0 0 50 2 OK lost 21 short 21 match True off [70, 71, 72, 73] sp 957 963 frame 960 burst 960
+0 0 50 3 OK lost 19 short 19 match True off [69, 70, 71, 72, 73] sp 957 964 frame 960 burst 960
+0 0 50 4 OK lost 18 short 18 match True off [70, 71, 72, 73] sp 957 963 frame 960 burst 960
+0 0 50 5 OK lost 19 short 19 match True off [69, 70, 71, 72, 73] sp 956 964 frame 960 burst 960
+ofdm_cyclic_prefixer :warning: Set rolloff to 0, because 1 would result in a boxcar function.
+1 0 50 1 OK lost 26 short 26 match True off [70, 71, 72, 73] sp 957 963 frame 960 burst 960
+ofdm_cyclic_prefixer :warning: Set rolloff to 0, because 1 would result in a boxcar function.
+1 0 50 2 OK lost 21 short 21 match True off [70, 71, 72, 73] sp 957 963 frame 960 burst 960
+ofdm_cyclic_prefixer :warning: Set rolloff to 0, because 1 would result in a boxcar function.
+1 0 50 3 OK lost 19 short 19 match True off [69, 70, 71, 72, 73] sp 957 964 frame 960 burst 960
+ofdm_cyclic_prefixer :warning: Set rolloff to 0, because 1 would result in a boxcar function.
+1 0 50 4 OK lost 18 short 18 match True off [70, 71, 72, 73] sp 957 963 frame 960 burst 960
+ofdm_cyclic_prefixer :warning: Set rolloff to 0, because 1 would result in a boxcar function.
+1 0 50 5 OK lost 19 short 19 match True off [69, 70, 71, 72, 73] sp 956 964 frame 960 burst 960
+2 0 50 1 OK lost 0 short 0 match True off [71, 72, 73] sp 959 963 frame 960 burst 961
+2 0 50 2 OK lost 2 short 2 match True off [70, 71, 72, 73] sp 958 963 frame 960 burst 961
+2 0 50 3 OK lost 2 short 2 match True off [70, 71, 72, 73] sp 958 964 frame 960 burst 961
+2 0 50 4 OK lost 0 short 0 match True off [71, 72, 73] sp 959 963 frame 960 burst 961
+2 0 50 5 OK lost 0 short 0 match True off [71, 72, 73] sp 959 963 frame 960 burst 961
+4 0 50 1 OK lost 0 short 0 match True off [73] sp 963 963 frame 960 burst 963
+4 0 50 2 OK lost 0 short 0 match True off [73] sp 963 963 frame 960 burst 963
+4 0 50 3 OK lost 0 short 0 match True off [73] sp 963 963 frame 960 burst 963
+4 0 50 4 OK lost 0 short 0 match True off [73] sp 963 963 frame 960 burst 963
+4 0 50 5 OK lost 0 short 0 match True off [73] sp 963 963 frame 960 burst 963
+0 1 50 1 OK lost 0 short 0 match True off [74] sp 961 961 frame 960 burst 961
+0 1 50 2 OK lost 0 short 0 match True off [74] sp 961 961 frame 960 burst 961
+0 1 50 3 OK lost 0 short 0 match True off [74] sp 961 961 frame 960 burst 961
+0 1 50 4 OK lost 0 short 0 match True off [74] sp 961 961 frame 960 burst 961
+0 1 50 5 OK lost 0 short 0 match True off [74] sp 961 961 frame 960 burst 961
+0 0 20 1 OK lost 27 short 27 match True off [70, 71, 72, 73] sp 557 562 frame 560 burst 560
+0 0 20 2 OK lost 19 short 19 match True off [69, 70, 71, 72, 73] sp 556 564 frame 560 burst 560
+0 0 20 3 OK lost 15 short 15 match True off [70, 71, 72, 73] sp 557 563 frame 560 burst 560
+0 0 20 4 OK lost 22 short 22 match True off [70, 71, 72, 73] sp 557 562 frame 560 burst 560
+0 0 20 5 OK lost 17 short 17 match True off [70, 71, 72, 73] sp 557 563 frame 560 burst 560
+0 0 100 1 OK lost 0 short 0 match True off [73] sp 1680 1680 frame 1680 burst 1680
+0 0 100 2 OK lost 0 short 0 match True off [73] sp 1680 1680 frame 1680 burst 1680
+0 0 100 3 OK lost 0 short 0 match True off [72, 73] sp 1679 1681 frame 1680 burst 1680
+0 0 100 4 OK lost 0 short 0 match True off [73] sp 1680 1680 frame 1680 burst 1680
+0 0 100 5 OK lost 0 short 0 match True off [73] sp 1680 1680 frame 1680 burst 1680
+0 0 200 1 OK lost 16 short 16 match True off [70, 71, 72, 73] sp 2957 2963 frame 2960 burst 2960
+0 0 200 2 OK lost 16 short 16 match True off [70, 71, 72, 73] sp 2957 2963 frame 2960 burst 2960
+0 0 200 3 OK lost 22 short 22 match True off [70, 71, 72, 73] sp 2957 2963 frame 2960 burst 2960
+0 0 200 4 OK lost 27 short 27 match True off [70, 71, 72, 73] sp 2957 2963 frame 2960 burst 2960
+0 0 200 5 OK lost 23 short 23 match True off [70, 71, 72, 73] sp 2957 2963 frame 2960 burst 2960
+wrote ../../Results/e8_trigger_timing.csv
